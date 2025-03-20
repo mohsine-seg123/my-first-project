@@ -5,6 +5,7 @@
 int i,j;
 char board[3][3];
 const char PLAYER = 'X';
+int a;
 const char COMPUTER = 'O';
 
 void resetBoard() {
